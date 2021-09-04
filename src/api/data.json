@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "img": "https://jamieyookr.github.io/img/shoes5.png",
+        "title": "Asics Phantom 2",
+        "content" : "Men Shoes",
+        "price" : 149.95,
+        "quan" : 1,
+        "details" : "<p>201A063001<br/><hr>Keeping its performance tooling intact, the GEL-QUANTUM 180 6 sneaker continues to evolve the shoe's lineage with technical componentry and styling cues from the ASICS archive.<br/><hr>+ Synthetic Leathetr Overlays<br/>+ GEL Technology Cushioning<br/>+ Mesh Upper<br/>+ Rubber Outsole<p/>"
+    },
+    {
+        "id": 2,
+        "img": "https://jamieyookr.github.io/img/shoes2.png",
+        "title": "Puma Dynablast",
+        "content" : "Women Shoes",
+        "price" : 210.77,
+        "quan" : 1,
+        "details" : "<p>Puma Dynablast<hr><br/>Puma Dynablast is a creative force on and off the court. He needs his shoes to keep up with his playmaking, but also sync with his boundary-pushing style and ethos. Tuned for the next generation of energy return, control and speed, the Asics Dynablast helps players at all levels take advantage of their quick first step by optimising the shoe's fit, court feel and banking ability.<hr/><br/>Colour Shown: Black/Red Ice/Total grey/Black<br/>Style: CQ9326-007<p/>"
+    },
+    {
+        "id": 3,
+        "img": "https://jamieyookr.github.io/img/shoes11.png",
+        "title": "Nike Tuned",
+        "content" : "Men Shoes",
+        "price" : 240,
+        "quan" : 1,
+        "details" : "<p>Nike Tuned<hr><br/>When performance is what you’re looking for, look no further than the all-new Nike Tuned 3. The mesh and leather upper bring in both lightness and breathability to the construction. Cushioning and responsiveness don’t get better than this sneaker which boasts of a foam midsole, Max Air units in the forefoot and heel, and Tuned Air technology. Vein-like patterns run along the forefoot and midfoot to add to the shoe’s signature styling. The classic “Tuned Air’ phrase is also etched on the side of the toe and on the heel. Push your performance to the max with these great shoes.<hr><br/>Nike Tuned 3 features:<br/>Mesh and leather upper<br/>Visible Max Air units in forefoot and heel<br/>Tuned Air cushioning<br/>Rubber outsole<br/>Lace closure<br/>Nike Swooshes embroidered on the sides<br/>‘TN’ branding on tongue, insoles, and outsoles<br/>Color: Black<br/>Material: Textile, Leather<br/>ID: DJ6877-001<p/>"
+    }
+]
